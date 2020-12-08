@@ -9,3 +9,5 @@ Author: AnsarBasha
 3. Last screen code
 
 4.Attachment (Image, Audio, video0 code
+
+Hiding the last seen
