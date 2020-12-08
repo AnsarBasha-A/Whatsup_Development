@@ -8,6 +8,12 @@ Author: AnsarBasha
 
 3. Last screen code
 
-4.Attachment (Image, Audio, video0 code
+4.Attachment (Image, Audio, video) code
 
 Hiding the last seen
+
+Adding the audio call feature
+
+Adding the video call feature
+
+
